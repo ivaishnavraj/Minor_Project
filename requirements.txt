@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+decord
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+tqdm
